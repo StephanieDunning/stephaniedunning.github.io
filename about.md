@@ -5,8 +5,6 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+I started working as a graphic designer in 2000 and have worked in advertising, entertainment, direct mail marketing and public relations. I added my love of photography to my work a few years ago when I created Sunshine Photos and it's been a great addition to my career.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Although I love print design and photography, I realized a while ago that there's so much more I could do if I learned to code. I entered Bloc Academy's Full Stack Web Developer program in 2016 and began my journey into web development. The program started with Ruby and Ruby on Rails then went in to HTML, CSS, JavaScript, jQuery and Angular. 
