@@ -6,4 +6,4 @@ thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/20
 short-description: Blocipedia
 
 ---
-Blocipedia placeholder text.
+Blocipedia was my first project as a web development student. 
